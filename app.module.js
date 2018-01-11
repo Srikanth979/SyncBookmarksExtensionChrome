@@ -1,0 +1,1 @@
+var syncBookmarksUIApp = angular.module("syncBookmarksUI", ["firebase"]);

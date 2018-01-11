@@ -1,0 +1,31 @@
+{
+  "name": "syncbookmarksextensionchrome",
+  "version": "1.0.0",
+  "description": "Chromium Browser Extension for Synchronizing bookmarks from cross Browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error no test specified\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srikanth979/SyncBookmarksExtensionChrome.git"
+  },
+  "keywords": [
+    "Browser",
+    "Extension"
+  ],
+  "author": "Srikanth Akurathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srikanth979/SyncBookmarksExtensionChrome/issues"
+  },
+  "homepage": "https://github.com/Srikanth979/SyncBookmarksExtensionChrome#readme",
+  "dependencies": {
+    "angular": "^1.6.8",
+    "angularfire": "^2.3.0",
+    "bootstrap": "^3.3.7",
+    "firebase": "^3.6.6",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1"
+  }
+}
